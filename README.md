@@ -1,5 +1,7 @@
 # Java Device Compatibility
 
+![Java CI](https://github.com/aaminter/dz7/actions/workflows/ci.yml/badge.svg)
+
 Учебная реализация выбора варианта приложения с учётом операционной системы и года выпуска устройства.
 
 ## Демонстрируемые темы
